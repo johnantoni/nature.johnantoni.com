@@ -1,0 +1,19 @@
+BEGIN:VCARD
+  VERSION:3.0
+  PROFILE:VCARD
+  FN:Mr John Antoni Antoni Griffiths
+  N:Griffiths;John Antoni;Antoni;Mr;
+  ADR;TYPE=INTL:;;;Colchester;Essex;;UNITED KINGDOM
+  TEL;TYPE=PREF;TYPE=WORK:+44 (0) 7540 106749
+  EMAIL;TYPE=INTERNET;TYPE=PREF:john@johnantoni.com
+  TITLE:Freelance Web Development
+  URL:http://www.johnantoni.com
+  URL:http://www.johngriffiths.me
+  URL:http://www.atompad.com
+  URL:http://github.com/johnantoni
+  URL:http://code.google.com/u/@UhRXRVVSARVFVgd%2B/
+  X-SKYPE-USERNAME:sgmuse
+  X-EVOLUTION-BLOG-URL:http://www.uxgent.com
+  UID:ef1bb96ba5175723f03729d73a97012f
+  REV:2009-11-16T00:52:40Z
+  END:VCARD
